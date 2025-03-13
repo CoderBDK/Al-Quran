@@ -18,12 +18,19 @@
 
 ## 📲 Installation Guide
 
-### 1. **Download APK & App Data**
+### 📽️ How to Install the App?  
+Watch the video below to learn how to install the Al-Quran app on your device ⬇️  
+<div align="center">
+<video src="https://github.com/user-attachments/assets/b41a5768-e24a-485d-90f2-cc9497eeabec" controls width="600"></video>  
+</div>
+
+### 📝 **Step-by-Step Installation Guide** 
+#### 1. **Download APK & App Data**
 - Click the link below to download the latest APK file for the app:
   - [Download APK](https://github.com/CoderBDK/Al-Quran/releases/download/v1.0.0/al-quran-v1.0.0.apk)
   - [Download App Data](https://github.com/CoderBDK/Al-Quran/releases/download/v1.0.0/al_quran_data-v1.0.0.qdf)
    
-### 2. Enable **Unknown Sources** in settings
+#### 2. Enable **Unknown Sources** in settings
 To install the APK, you first need to allow your phone to install apps from unknown sources.
 
 - **Step 1**: Go to **Settings** on your device.
@@ -31,14 +38,14 @@ To install the APK, you first need to allow your phone to install apps from unkn
 - **Step 3**: Under **Security**, tap on **Install unknown apps** (or **Unknown Sources** depending on your device).
 - **Step 4**: Find the app (e.g., your browser or file manager) you will use to open the APK file. Toggle **Allow from this source** to enable it.
 
-### 3. Install the APK
+#### 3. Install the APK
 Once you've enabled unknown sources:
 
 - **Step 1**: Locate the downloaded APK file (usually in your **Downloads** folder).
 - **Step 2**: Tap on the APK file to begin the installation.
 - **Step 3**: A prompt will appear asking for permission to install the app. Tap **Install** to continue.
 
-### 4. Backup Key
+#### 4. Backup Key
 To restore your data, follow these steps:
 
 1. **Copy the Backup Key**:
@@ -57,7 +64,7 @@ To restore your data, follow these steps:
    - Now you can start using the app with your restored data!
 
 
-### 5. Open the App
+#### 5. Open the App
 After installation is complete, you can tap **Open** to launch the app.
 
 ---
